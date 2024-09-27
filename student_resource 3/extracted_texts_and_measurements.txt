@@ -1,0 +1,448 @@
+2024-09-16 09:40:07,550 - INFO - Extracted text from ./test_images/item_volume\22.jpg: .
+oo
+oiffi
+fo
+ilfi
+c
+i 2
+
+2024-09-16 09:40:07,550 - INFO - Standardized text: .
+oo
+oiffi
+fo
+ilfi
+c
+i 2
+
+2024-09-16 09:40:07,550 - INFO - Extracted measurements: []
+2024-09-16 09:40:07,695 - INFO - Extracted text from ./test_images/item_volume\101.jpg: L
+ll
+
+2024-09-16 09:40:07,695 - INFO - Standardized text: litre
+ll
+
+2024-09-16 09:40:07,695 - INFO - Extracted measurements: []
+2024-09-16 09:40:07,844 - INFO - Extracted text from ./test_images/item_volume\147.jpg: L
+.
+omoo2
+o3
+20f204
+L2
+ooo
+
+2024-09-16 09:40:07,844 - INFO - Standardized text: litre
+.
+omoo2
+o3
+20f204
+l2
+ooo
+
+2024-09-16 09:40:07,844 - INFO - Extracted measurements: []
+2024-09-16 09:40:07,991 - INFO - Extracted text from ./test_images/item_volume\161.jpg: Lzocf
+icoml
+
+2024-09-16 09:40:07,991 - INFO - Standardized text: lzocf
+icoml
+
+2024-09-16 09:40:07,991 - INFO - Extracted measurements: []
+2024-09-16 09:40:08,157 - INFO - Extracted text from ./test_images/item_volume\253.jpg: L
+o
+o f
+i
+L
+Lomi.
+i oz
+
+2024-09-16 09:40:08,157 - INFO - Standardized text: litre
+o
+o f
+i
+litre
+lomi.
+i fluid ounce
+
+2024-09-16 09:40:08,157 - INFO - Extracted measurements: []
+2024-09-16 09:40:08,359 - INFO - Extracted text from ./test_images/item_volume\336.jpg: L
+L
+lLL
+i
+icioflomio
+lmooffo
+loci.comc
+folizlli
+omioci
+oomfic
+mo
+40mi1.35floz.
+
+2024-09-16 09:40:08,359 - INFO - Standardized text: litre
+litre
+lll
+i
+icioflomio
+lmooffo
+loci.comc
+folizlli
+omioci
+oomfic
+mo
+40mi1.35floz.
+
+2024-09-16 09:40:08,359 - INFO - Extracted measurements: []
+2024-09-16 09:40:08,526 - INFO - Extracted text from ./test_images/item_volume\354.jpg: .iz
+1ocof1
+Lofc
+ocoLc
+ccloiill oool
+Lif
+olo
+l
+
+2024-09-16 09:40:08,526 - INFO - Standardized text: .iz
+1ocof1
+lofc
+ocolc
+ccloiill oool
+lif
+olo
+litre
+
+2024-09-16 09:40:08,526 - INFO - Extracted measurements: []
+2024-09-16 09:40:08,677 - INFO - Extracted text from ./test_images/item_volume\368.jpg: 2lifom
+
+cimi 3
+88 i
+oo
+
+2024-09-16 09:40:08,677 - INFO - Standardized text: 2lifom
+
+cimi 3
+88 i
+oo
+
+2024-09-16 09:40:08,677 - INFO - Extracted measurements: []
+2024-09-16 09:40:08,813 - INFO - Extracted text from ./test_images/item_volume\372.jpg: mof
+
+2024-09-16 09:40:08,813 - INFO - Standardized text: mof
+
+2024-09-16 09:40:08,813 - INFO - Extracted measurements: []
+2024-09-16 09:40:08,998 - INFO - Extracted text from ./test_images/item_volume\390.jpg: i
+
+i
+m
+o
+o
+l
+fi ocomo
+
+.
+3 i
+moi
+
+2024-09-16 09:40:08,998 - INFO - Standardized text: i
+
+i
+m
+o
+o
+litre
+fi ocomo
+
+.
+3 i
+moi
+
+2024-09-16 09:40:08,998 - INFO - Extracted measurements: []
+2024-09-16 09:40:09,140 - INFO - Extracted text from ./test_images/item_volume\401.jpg: i
+
+2024-09-16 09:40:09,140 - INFO - Standardized text: i
+
+2024-09-16 09:40:09,140 - INFO - Extracted measurements: []
+2024-09-16 09:40:09,302 - INFO - Extracted text from ./test_images/item_volume\420.jpg: flic
+cic
+ool
+cco
+o
+4
+
+2024-09-16 09:40:09,302 - INFO - Standardized text: flic
+cic
+ool
+cco
+o
+4
+
+2024-09-16 09:40:09,302 - INFO - Extracted measurements: []
+2024-09-16 09:40:09,430 - INFO - Extracted text from ./test_images/item_volume\467.jpg: 
+2024-09-16 09:40:09,430 - INFO - Standardized text: 
+2024-09-16 09:40:09,430 - INFO - Extracted measurements: []
+2024-09-16 09:40:09,589 - INFO - Extracted text from ./test_images/item_volume\481.jpg: oi
+l.i
+ml
+
+2024-09-16 09:40:09,589 - INFO - Standardized text: oi
+litre.i
+millilitre
+
+2024-09-16 09:40:09,589 - INFO - Extracted measurements: []
+2024-09-16 09:40:09,764 - INFO - Extracted text from ./test_images/item_volume\495.jpg: oci
+ocl om
+cm o.
+cool
+omolollioic
+
+icloco Lol
+ooi
+
+l
+
+2024-09-16 09:40:09,764 - INFO - Standardized text: oci
+ocl om
+cm o.
+cool
+omolollioic
+
+icloco lol
+ooi
+
+litre
+
+2024-09-16 09:40:09,764 - INFO - Extracted measurements: []
+2024-09-16 09:40:09,895 - INFO - Extracted text from ./test_images/item_volume\505.jpg: 
+2024-09-16 09:40:09,895 - INFO - Standardized text: 
+2024-09-16 09:40:09,895 - INFO - Extracted measurements: []
+2024-09-16 09:40:10,016 - INFO - Extracted text from ./test_images/item_volume\540.jpg: 
+2024-09-16 09:40:10,016 - INFO - Standardized text: 
+2024-09-16 09:40:10,016 - INFO - Extracted measurements: []
+2024-09-16 09:40:10,145 - INFO - Extracted text from ./test_images/item_volume\574.jpg: moco
+om
+
+2024-09-16 09:40:10,145 - INFO - Standardized text: moco
+om
+
+2024-09-16 09:40:10,145 - INFO - Extracted measurements: []
+2024-09-16 09:40:10,278 - INFO - Extracted text from ./test_images/item_volume\602.jpg: i
+
+2024-09-16 09:40:10,278 - INFO - Standardized text: i
+
+2024-09-16 09:40:10,278 - INFO - Extracted measurements: []
+2024-09-16 09:40:10,491 - INFO - Extracted text from ./test_images/item_volume\648.jpg: .
+i
+lfoi
+
+flmiofoc
+
+i
+
+iioloi
+ic
+.iml80
+
+2024-09-16 09:40:10,491 - INFO - Standardized text: .
+i
+lfoi
+
+flmiofoc
+
+i
+
+iioloi
+ic
+.iml80
+
+2024-09-16 09:40:10,491 - INFO - Extracted measurements: []
+2024-09-16 09:40:10,645 - INFO - Extracted text from ./test_images/item_volume\670.jpg: l
+clmimoliof
+
+2024-09-16 09:40:10,645 - INFO - Standardized text: litre
+clmimoliof
+
+2024-09-16 09:40:10,645 - INFO - Extracted measurements: []
+2024-09-16 09:40:10,795 - INFO - Extracted text from ./test_images/item_volume\685.jpg: .
+o
+ii.
+o
+m8
+
+2024-09-16 09:40:10,795 - INFO - Standardized text: .
+o
+ii.
+o
+m8
+
+2024-09-16 09:40:10,795 - INFO - Extracted measurements: []
+2024-09-16 09:40:10,948 - INFO - Extracted text from ./test_images/item_volume\690.jpg: oc
+
+2024-09-16 09:40:10,948 - INFO - Standardized text: oc
+
+2024-09-16 09:40:10,948 - INFO - Extracted measurements: []
+2024-09-16 09:40:11,104 - INFO - Extracted text from ./test_images/item_volume\699.jpg: o
+
+.
+LL
+
+ommo0
+
+cool
+ccomioim
+
+2024-09-16 09:40:11,104 - INFO - Standardized text: o
+
+.
+ll
+
+ommo0
+
+cool
+ccomioim
+
+2024-09-16 09:40:11,104 - INFO - Extracted measurements: []
+2024-09-16 09:40:11,282 - INFO - Extracted text from ./test_images/item_volume\740.jpg: ccliim
+.LL
+L
+iozo
+
+2024-09-16 09:40:11,283 - INFO - Standardized text: ccliim
+.ll
+litre
+iozo
+
+2024-09-16 09:40:11,283 - INFO - Extracted measurements: []
+2024-09-16 09:40:11,426 - INFO - Extracted text from ./test_images/item_volume\765.jpg: icozolc
+iofilfciio
+
+2024-09-16 09:40:11,426 - INFO - Standardized text: icozolc
+iofilfciio
+
+2024-09-16 09:40:11,426 - INFO - Extracted measurements: []
+2024-09-16 09:40:11,563 - INFO - Extracted text from ./test_images/item_volume\815.jpg: o
+i
+
+2024-09-16 09:40:11,564 - INFO - Standardized text: o
+i
+
+2024-09-16 09:40:11,564 - INFO - Extracted measurements: []
+2024-09-16 09:40:11,720 - INFO - Extracted text from ./test_images/item_volume\831.jpg: .o
+i
+m7
+
+2024-09-16 09:40:11,720 - INFO - Standardized text: .o
+i
+m7
+
+2024-09-16 09:40:11,720 - INFO - Extracted measurements: []
+2024-09-16 09:40:11,877 - INFO - Extracted text from ./test_images/item_volume\849.jpg: 25i.
+m
+o
+2
+40.5L
+
+2024-09-16 09:40:11,877 - INFO - Standardized text: 25i.
+m
+o
+2
+40.5l
+
+2024-09-16 09:40:11,877 - INFO - Extracted measurements: []
+2024-09-16 09:40:12,004 - INFO - Extracted text from ./test_images/item_volume\859.jpg: 2
+
+2024-09-16 09:40:12,004 - INFO - Standardized text: 2
+
+2024-09-16 09:40:12,004 - INFO - Extracted measurements: []
+2024-09-16 09:40:12,174 - INFO - Extracted text from ./test_images/item_volume\867.jpg: i
+mo
+
+2024-09-16 09:40:12,174 - INFO - Standardized text: i
+mo
+
+2024-09-16 09:40:12,174 - INFO - Extracted measurements: []
+2024-09-16 09:40:12,327 - INFO - Extracted text from ./test_images/item_volume\904.jpg: mo
+2i
+o
+m2Lii
+
+2024-09-16 09:40:12,327 - INFO - Standardized text: mo
+2i
+o
+m2lii
+
+2024-09-16 09:40:12,327 - INFO - Extracted measurements: []
+2024-09-16 09:40:12,466 - INFO - Extracted text from ./test_images/item_volume\980.jpg: 
+2024-09-16 09:40:12,466 - INFO - Standardized text: 
+2024-09-16 09:40:12,466 - INFO - Extracted measurements: []
+2024-09-16 09:40:12,594 - INFO - Extracted text from ./test_images/item_volume\986.jpg: 
+2024-09-16 09:40:12,594 - INFO - Standardized text: 
+2024-09-16 09:40:12,594 - INFO - Extracted measurements: []
+2024-09-16 09:40:12,748 - INFO - Extracted text from ./test_images/item_volume\1005.jpg: L
+7 L
+
+2024-09-16 09:40:12,748 - INFO - Standardized text: litre
+7 litre
+
+2024-09-16 09:40:12,748 - INFO - Extracted measurements: [(7.0, 'litre')]
+2024-09-16 09:40:12,748 - INFO - Prediction for image 1005.jpg: 7.0 litre
+2024-09-16 09:40:12,903 - INFO - Extracted text from ./test_images/item_volume\1037.jpg: cc
+i32
+iccio
+
+2024-09-16 09:40:12,903 - INFO - Standardized text: cc
+i32
+iccio
+
+2024-09-16 09:40:12,903 - INFO - Extracted measurements: []
+2024-09-16 09:40:13,065 - INFO - Extracted text from ./test_images/item_volume\1040.jpg: 4
+84
+24
+. co
+co
+3
+l z i
+18.0.
+i
+11.50.m
+
+2024-09-16 09:40:13,065 - INFO - Standardized text: 4
+84
+24
+. co
+co
+3
+litre z i
+18.0.
+i
+11.50.m
+
+2024-09-16 09:40:13,065 - INFO - Extracted measurements: [(3.0, 'litre')]
+2024-09-16 09:40:13,065 - INFO - Prediction for image 1040.jpg: 3.0 litre
+2024-09-16 09:40:13,212 - INFO - Extracted text from ./test_images/item_volume\1053.jpg: 
+2024-09-16 09:40:13,212 - INFO - Standardized text: 
+2024-09-16 09:40:13,212 - INFO - Extracted measurements: []
+2024-09-16 09:40:13,367 - INFO - Extracted text from ./test_images/item_volume\1094.jpg: i
+fi
+m
+cc
+
+2024-09-16 09:40:13,367 - INFO - Standardized text: i
+fi
+m
+cc
+
+2024-09-16 09:40:13,367 - INFO - Extracted measurements: []
+2024-09-16 09:40:13,520 - INFO - Extracted text from ./test_images/item_volume\1104.jpg: i
+L
+i
+.
+
+icom3
+lo
+
+2024-09-16 09:40:13,520 - INFO - Standardized text: i
+litre
+i
+.
+
+icom3
+lo
+
+2024-09-16 09:40:13,520 - INFO - Extracted measurements: []

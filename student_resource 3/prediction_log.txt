@@ -1,0 +1,1562 @@
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, Extracted Text: , Measurements: []
+INFO:root:Index: 14, Extracted Text: , Measurements: []
+INFO:root:Index: 20, Extracted Text: , Measurements: []
+INFO:root:Index: 21, Extracted Text: , Measurements: []
+INFO:root:Index: 23, Extracted Text: wo sgt
+, Measurements: []
+INFO:root:Index: 25, Extracted Text: , Measurements: []
+INFO:root:Index: 32, Extracted Text: , Measurements: []
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 12, Extracted Text: , Measurements: []
+INFO:root:Index: 24, Extracted Text: wo sgt
+, Measurements: []
+INFO:root:Index: 26, Extracted Text: , Measurements: []
+INFO:root:Index: 33, Extracted Text: , Measurements: []
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+ain
+220m
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 53, Extracted Text: 15610
+Bem
+
+, Measurements: []
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 80mn/98.43"
+, Measurements: [(4.13, '"'), (80.0, 'm'), (98.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30cm
+
+15cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'cm'), (15.0, 'cm')]
+INFO:root:Index: 11, Extracted Text: , Measurements: []
+INFO:root:Index: 14, Extracted Text: , Measurements: []
+INFO:root:Index: 20, Extracted Text: , Measurements: []
+INFO:root:Index: 21, Extracted Text: , Measurements: []
+INFO:root:Index: 23, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 25, Extracted Text: , Measurements: []
+INFO:root:Index: 32, Extracted Text: , Measurements: []
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 80mn/98.43"
+, Measurements: [(4.13, '"'), (80.0, 'm'), (98.43, '"')]
+INFO:root:Index: 12, Extracted Text: , Measurements: []
+INFO:root:Index: 24, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 26, Extracted Text: , Measurements: []
+INFO:root:Index: 33, Extracted Text: , Measurements: []
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+anak
+200m
+, Measurements: [(90.0, 'cm'), (200.0, 'm')]
+INFO:root:Index: 45, Extracted Text: S.Rin
+14cm
+
+, Measurements: [(14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: dem
+
+yaacm
+, Measurements: []
+INFO:root:Index: 53, Extracted Text: 158\0
+wen
+
+, Measurements: []
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 800rn/98.43"
+, Measurements: [(4.13, '"'), (98.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30cm
+
+15cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'cm'), (15.0, 'cm')]
+INFO:root:Index: 11, Extracted Text: , Measurements: []
+INFO:root:Index: 14, Extracted Text: , Measurements: []
+INFO:root:Index: 20, Extracted Text: , Measurements: []
+INFO:root:Index: 21, Extracted Text: , Measurements: []
+INFO:root:Index: 23, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 25, Extracted Text: , Measurements: []
+INFO:root:Index: 32, Extracted Text: , Measurements: []
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 800rn/98.43"
+, Measurements: [(4.13, '"'), (98.43, '"')]
+INFO:root:Index: 12, Extracted Text: , Measurements: []
+INFO:root:Index: 24, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 26, Extracted Text: , Measurements: []
+INFO:root:Index: 33, Extracted Text: , Measurements: []
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+ani
+200m
+, Measurements: [(90.0, 'cm'), (200.0, 'm')]
+INFO:root:Index: 45, Extracted Text: S.Rin
+14cm
+
+, Measurements: [(14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: bem
+
+yaacm
+, Measurements: []
+INFO:root:Index: 53, Extracted Text: sin
+1 1250"
+I
+
+158\0
+wen
+
+, Measurements: [(1250.0, '"')]
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 800rn/98.43"
+, Measurements: [(4.13, '"'), (98.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30cm
+
+15cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'cm'), (15.0, 'cm')]
+INFO:root:Index: 11, Extracted Text: , Measurements: []
+INFO:root:Index: 14, Extracted Text: , Measurements: []
+INFO:root:Index: 20, Extracted Text: , Measurements: []
+INFO:root:Index: 21, Extracted Text: , Measurements: []
+INFO:root:Index: 23, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 25, Extracted Text: , Measurements: []
+INFO:root:Index: 32, Extracted Text: , Measurements: []
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 800rn/98.43"
+, Measurements: [(4.13, '"'), (98.43, '"')]
+INFO:root:Index: 12, Extracted Text: , Measurements: []
+INFO:root:Index: 24, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 26, Extracted Text: , Measurements: []
+INFO:root:Index: 33, Extracted Text: , Measurements: []
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+ani
+200m
+, Measurements: [(90.0, 'cm'), (200.0, 'm')]
+INFO:root:Index: 45, Extracted Text: S.Rin
+14cm
+
+, Measurements: [(14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: bem
+
+yaacm
+, Measurements: []
+INFO:root:Index: 53, Extracted Text: sin
+1 1250"
+I
+
+158\0
+wen
+
+, Measurements: [(1250.0, '"')]
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 800rn/98.43"
+, Measurements: [(4.13, '"'), (98.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30cm
+
+15cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'cm'), (15.0, 'cm')]
+INFO:root:Index: 11, Extracted Text: , Measurements: []
+INFO:root:Index: 14, Extracted Text: , Measurements: []
+INFO:root:Index: 20, Extracted Text: , Measurements: []
+INFO:root:Index: 21, Extracted Text: , Measurements: []
+INFO:root:Index: 23, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 25, Extracted Text: , Measurements: []
+INFO:root:Index: 32, Extracted Text: , Measurements: []
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 800rn/98.43"
+, Measurements: [(4.13, '"'), (98.43, '"')]
+INFO:root:Index: 12, Extracted Text: , Measurements: []
+INFO:root:Index: 24, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 26, Extracted Text: , Measurements: []
+INFO:root:Index: 33, Extracted Text: , Measurements: []
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+ani
+200m
+, Measurements: [(90.0, 'cm'), (200.0, 'm')]
+INFO:root:Index: 45, Extracted Text: S.Rin
+14cm
+
+, Measurements: [(14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: bem
+
+yaacm
+, Measurements: []
+INFO:root:Index: 53, Extracted Text: sin
+1 1250"
+I
+
+158\0
+wen
+
+, Measurements: [(1250.0, '"')]
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 800rn/98.43"
+, Measurements: [(4.13, '"'), (98.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30cm
+
+15cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'cm'), (15.0, 'cm')]
+INFO:root:Index: 11, Extracted Text: , Measurements: []
+INFO:root:Index: 14, Extracted Text: , Measurements: []
+INFO:root:Index: 20, Extracted Text: , Measurements: []
+INFO:root:Index: 21, Extracted Text: , Measurements: []
+INFO:root:Index: 23, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 25, Extracted Text: , Measurements: []
+INFO:root:Index: 32, Extracted Text: , Measurements: []
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 800rn/98.43"
+, Measurements: [(4.13, '"'), (98.43, '"')]
+INFO:root:Index: 12, Extracted Text: , Measurements: []
+INFO:root:Index: 24, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 26, Extracted Text: , Measurements: []
+INFO:root:Index: 33, Extracted Text: , Measurements: []
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+ani
+200m
+, Measurements: [(90.0, 'cm'), (200.0, 'm')]
+INFO:root:Index: 45, Extracted Text: S.Rin
+14cm
+
+, Measurements: [(14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: bem
+
+yaacm
+, Measurements: []
+INFO:root:Index: 53, Extracted Text: sin
+1 1250"
+I
+
+158\0
+wen
+
+, Measurements: [(1250.0, '"')]
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 800rn/98.43"
+, Measurements: [(4.13, '"'), (98.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30cm
+
+15cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'cm'), (15.0, 'cm')]
+INFO:root:Index: 11, Extracted Text: , Measurements: []
+INFO:root:Index: 14, Extracted Text: , Measurements: []
+INFO:root:Index: 20, Extracted Text: , Measurements: []
+INFO:root:Index: 21, Extracted Text: , Measurements: []
+INFO:root:Index: 23, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 25, Extracted Text: , Measurements: []
+INFO:root:Index: 32, Extracted Text: , Measurements: []
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cmi78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 800rn/98.43"
+, Measurements: [(4.13, '"'), (98.43, '"')]
+INFO:root:Index: 12, Extracted Text: , Measurements: []
+INFO:root:Index: 24, Extracted Text: uo Set
+, Measurements: []
+INFO:root:Index: 26, Extracted Text: , Measurements: []
+INFO:root:Index: 33, Extracted Text: , Measurements: []
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+ani
+200m
+, Measurements: [(90.0, 'cm'), (200.0, 'm')]
+INFO:root:Index: 45, Extracted Text: S.Rin
+14cm
+
+, Measurements: [(14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: bem
+
+yaacm
+, Measurements: []
+INFO:root:Index: 53, Extracted Text: sin
+1 1250"
+I
+
+158\0
+wen
+
+, Measurements: [(1250.0, '"')]
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, Extracted Text: , Measurements: []
+INFO:root:Index: 14, Extracted Text: , Measurements: []
+INFO:root:Index: 20, Extracted Text: , Measurements: []
+INFO:root:Index: 21, Extracted Text: , Measurements: []
+INFO:root:Index: 23, Extracted Text: wo sgt
+, Measurements: []
+INFO:root:Index: 25, Extracted Text: , Measurements: []
+INFO:root:Index: 32, Extracted Text: , Measurements: []
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 12, Extracted Text: , Measurements: []
+INFO:root:Index: 24, Extracted Text: wo sgt
+, Measurements: []
+INFO:root:Index: 26, Extracted Text: , Measurements: []
+INFO:root:Index: 33, Extracted Text: , Measurements: []
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+ï¿½ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 53, Extracted Text: , Measurements: []
+
+
+
+
+
+
+
+
+
+
+***********************************************************************************************8
+updataed code:
+***********************************************************************************************8INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+ï¿½ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 53, No measurements found.
+
+
+***********************************************************************************************8
+once again updataed code:
+***********************************************************************************************8INFO:root:Index: 1, Extracted Text: Size Width Length
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+ï¿½ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 53, No measurements found.
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+ï¿½ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 53, No measurements found.
+
+
+
+
+
+
+
+
+
+
+**********************************************************************************************
+updated code with more logging
+**********************************************************************************************INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 1, No valid measurements found after filtering.
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 6, No valid measurements found after filtering.
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 3, No valid measurements found after filtering.
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 4, No valid measurements found after filtering.
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 39, No valid measurements found after filtering.
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 49, No valid measurements found after filtering.
+INFO:root:Index: 53, No measurements found.
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 1, No valid measurements found after filtering.
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 6, No valid measurements found after filtering.
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 40, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 40, No valid measurements found after filtering.
+INFO:root:Index: 42, Extracted Text: 4gin
+122em
+
+96 in
+244 cm
+, Measurements: [(96.0, 'inch'), (244.0, 'centimetre')]
+INFO:root:Index: 47, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 48, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 48, No valid measurements found after filtering.
+INFO:root:Index: 55, No measurements found.
+INFO:root:Index: 58, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 58, No valid measurements found after filtering.
+INFO:root:Index: 64, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 64, No valid measurements found after filtering.
+INFO:root:Index: 68, No measurements found.
+INFO:root:Index: 71, No measurements found.
+INFO:root:Index: 85, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 3, No valid measurements found after filtering.
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 4, No valid measurements found after filtering.
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 39, No valid measurements found after filtering.
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 49, No valid measurements found after filtering.
+INFO:root:Index: 53, No measurements found.
+INFO:root:Index: 57, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 57, No valid measurements found after filtering.
+INFO:root:Index: 63, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 63, No valid measurements found after filtering.
+INFO:root:Index: 70, No measurements found.
+INFO:root:Index: 73, No measurements found.
+INFO:root:Index: 77, Extracted Text: 4.7 in/ 12cm
+
+—_—
+
+3.1 in/8cm
+, Measurements: [(4.7, 'inch'), (12.0, 'cm'), (3.1, 'inch'), (8.0, 'cm')]
+INFO:root:Index: 86, No measurements found.
+INFO:root:Index: 99, Extracted Text: 14.9 in / 38 cm
+
+See
+4.33 in/ 11cm
+, Measurements: [(14.9, 'inch'), (38.0, 'centimetre'), (4.33, 'inch'), (11.0, 'cm')]
+INFO:root:Index: 119, Extracted Text: 45cm/17.7in
+
+10cm/3.9in
+, Measurements: [(45.0, 'cm'), (17.7, 'in'), (10.0, 'cm'), (3.9, 'in')]
+INFO:root:Index: 119, No valid measurements found after filtering.
+INFO:root:Index: 121, No measurements found.
+INFO:root:Index: 133, Extracted Text: 25.6in(65cm)
+, Measurements: [(25.6, 'in'), (65.0, 'cm')]
+INFO:root:Index: 133, No valid measurements found after filtering.
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 1, No valid measurements found after filtering.
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 6, No valid measurements found after filtering.
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 40, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 40, No valid measurements found after filtering.
+INFO:root:Index: 42, Extracted Text: 4gin
+122em
+
+96 in
+244 cm
+, Measurements: [(96.0, 'inch'), (244.0, 'centimetre')]
+INFO:root:Index: 47, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 48, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 48, No valid measurements found after filtering.
+INFO:root:Index: 55, No measurements found.
+INFO:root:Index: 58, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 58, No valid measurements found after filtering.
+INFO:root:Index: 64, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 64, No valid measurements found after filtering.
+INFO:root:Index: 68, No measurements found.
+INFO:root:Index: 71, No measurements found.
+INFO:root:Index: 85, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 3, No valid measurements found after filtering.
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 4, No valid measurements found after filtering.
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 39, No valid measurements found after filtering.
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 49, No valid measurements found after filtering.
+INFO:root:Index: 53, No measurements found.
+INFO:root:Index: 57, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 57, No valid measurements found after filtering.
+INFO:root:Index: 63, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 63, No valid measurements found after filtering.
+INFO:root:Index: 70, No measurements found.
+INFO:root:Index: 73, No measurements found.
+INFO:root:Index: 77, Extracted Text: 4.7 in/ 12cm
+
+—_—
+
+3.1 in/8cm
+, Measurements: [(4.7, 'inch'), (12.0, 'cm'), (3.1, 'inch'), (8.0, 'cm')]
+INFO:root:Index: 86, No measurements found.
+INFO:root:Index: 99, Extracted Text: 14.9 in / 38 cm
+
+See
+4.33 in/ 11cm
+, Measurements: [(14.9, 'inch'), (38.0, 'centimetre'), (4.33, 'inch'), (11.0, 'cm')]
+INFO:root:Index: 119, Extracted Text: 45cm/17.7in
+
+10cm/3.9in
+, Measurements: [(45.0, 'cm'), (17.7, 'in'), (10.0, 'cm'), (3.9, 'in')]
+INFO:root:Index: 119, No valid measurements found after filtering.
+INFO:root:Index: 121, No measurements found.
+INFO:root:Index: 133, Extracted Text: 25.6in(65cm)
+, Measurements: [(25.6, 'in'), (65.0, 'cm')]
+INFO:root:Index: 133, No valid measurements found after filtering.
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 1, No valid measurements found after filtering.
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 6, No valid measurements found after filtering.
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 40, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 40, No valid measurements found after filtering.
+INFO:root:Index: 42, Extracted Text: 4gin
+122em
+
+96 in
+244 cm
+, Measurements: [(96.0, 'inch'), (244.0, 'centimetre')]
+INFO:root:Index: 47, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 48, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 48, No valid measurements found after filtering.
+INFO:root:Index: 55, No measurements found.
+INFO:root:Index: 58, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 58, No valid measurements found after filtering.
+INFO:root:Index: 64, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 64, No valid measurements found after filtering.
+INFO:root:Index: 68, No measurements found.
+INFO:root:Index: 71, No measurements found.
+INFO:root:Index: 85, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 3, No valid measurements found after filtering.
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 4, No valid measurements found after filtering.
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 39, No valid measurements found after filtering.
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 49, No valid measurements found after filtering.
+INFO:root:Index: 53, No measurements found.
+INFO:root:Index: 57, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 57, No valid measurements found after filtering.
+INFO:root:Index: 63, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 63, No valid measurements found after filtering.
+INFO:root:Index: 70, No measurements found.
+INFO:root:Index: 73, No measurements found.
+INFO:root:Index: 77, Extracted Text: 4.7 in/ 12cm
+
+—_—
+
+3.1 in/8cm
+, Measurements: [(4.7, 'inch'), (12.0, 'cm'), (3.1, 'inch'), (8.0, 'cm')]
+INFO:root:Index: 86, No measurements found.
+INFO:root:Index: 99, Extracted Text: 14.9 in / 38 cm
+
+See
+4.33 in/ 11cm
+, Measurements: [(14.9, 'inch'), (38.0, 'centimetre'), (4.33, 'inch'), (11.0, 'cm')]
+INFO:root:Index: 119, Extracted Text: 45cm/17.7in
+
+10cm/3.9in
+, Measurements: [(45.0, 'cm'), (17.7, 'in'), (10.0, 'cm'), (3.9, 'in')]
+INFO:root:Index: 119, No valid measurements found after filtering.
+INFO:root:Index: 121, No measurements found.
+INFO:root:Index: 133, Extracted Text: 25.6in(65cm)
+, Measurements: [(25.6, 'in'), (65.0, 'cm')]
+INFO:root:Index: 133, No valid measurements found after filtering.
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 1, No valid measurements found after filtering.
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 6, No valid measurements found after filtering.
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 40, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 40, No valid measurements found after filtering.
+INFO:root:Index: 42, Extracted Text: 4gin
+122em
+
+96 in
+244 cm
+, Measurements: [(96.0, 'inch'), (244.0, 'centimetre')]
+INFO:root:Index: 47, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 48, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 48, No valid measurements found after filtering.
+INFO:root:Index: 55, No measurements found.
+INFO:root:Index: 58, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 58, No valid measurements found after filtering.
+INFO:root:Index: 64, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 64, No valid measurements found after filtering.
+INFO:root:Index: 68, No measurements found.
+INFO:root:Index: 71, No measurements found.
+INFO:root:Index: 85, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 3, No valid measurements found after filtering.
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 4, No valid measurements found after filtering.
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 39, No valid measurements found after filtering.
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 49, No valid measurements found after filtering.
+INFO:root:Index: 53, No measurements found.
+INFO:root:Index: 57, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 57, No valid measurements found after filtering.
+INFO:root:Index: 63, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 63, No valid measurements found after filtering.
+INFO:root:Index: 70, No measurements found.
+INFO:root:Index: 73, No measurements found.
+INFO:root:Index: 77, Extracted Text: 4.7 in/ 12cm
+
+—_—
+
+3.1 in/8cm
+, Measurements: [(4.7, 'inch'), (12.0, 'cm'), (3.1, 'inch'), (8.0, 'cm')]
+INFO:root:Index: 86, No measurements found.
+INFO:root:Index: 99, Extracted Text: 14.9 in / 38 cm
+
+See
+4.33 in/ 11cm
+, Measurements: [(14.9, 'inch'), (38.0, 'centimetre'), (4.33, 'inch'), (11.0, 'cm')]
+INFO:root:Index: 119, Extracted Text: 45cm/17.7in
+
+10cm/3.9in
+, Measurements: [(45.0, 'cm'), (17.7, 'in'), (10.0, 'cm'), (3.9, 'in')]
+INFO:root:Index: 119, No valid measurements found after filtering.
+INFO:root:Index: 121, No measurements found.
+INFO:root:Index: 133, Extracted Text: 25.6in(65cm)
+, Measurements: [(25.6, 'in'), (65.0, 'cm')]
+INFO:root:Index: 133, No valid measurements found after filtering.
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 1, No valid measurements found after filtering.
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 6, No valid measurements found after filtering.
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 40, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 40, No valid measurements found after filtering.
+INFO:root:Index: 42, Extracted Text: 4gin
+122em
+
+96 in
+244 cm
+, Measurements: [(96.0, 'inch'), (244.0, 'centimetre')]
+INFO:root:Index: 47, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 48, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 48, No valid measurements found after filtering.
+INFO:root:Index: 55, No measurements found.
+INFO:root:Index: 58, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 58, No valid measurements found after filtering.
+INFO:root:Index: 64, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 64, No valid measurements found after filtering.
+INFO:root:Index: 68, No measurements found.
+INFO:root:Index: 71, No measurements found.
+INFO:root:Index: 85, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 3, No valid measurements found after filtering.
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 4, No valid measurements found after filtering.
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 39, No valid measurements found after filtering.
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 49, No valid measurements found after filtering.
+INFO:root:Index: 53, No measurements found.
+INFO:root:Index: 57, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 57, No valid measurements found after filtering.
+INFO:root:Index: 63, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 63, No valid measurements found after filtering.
+INFO:root:Index: 70, No measurements found.
+INFO:root:Index: 73, No measurements found.
+INFO:root:Index: 77, Extracted Text: 4.7 in/ 12cm
+
+—_—
+
+3.1 in/8cm
+, Measurements: [(4.7, 'inch'), (12.0, 'cm'), (3.1, 'inch'), (8.0, 'cm')]
+INFO:root:Index: 86, No measurements found.
+INFO:root:Index: 99, Extracted Text: 14.9 in / 38 cm
+
+See
+4.33 in/ 11cm
+, Measurements: [(14.9, 'inch'), (38.0, 'centimetre'), (4.33, 'inch'), (11.0, 'cm')]
+INFO:root:Index: 119, Extracted Text: 45cm/17.7in
+
+10cm/3.9in
+, Measurements: [(45.0, 'cm'), (17.7, 'in'), (10.0, 'cm'), (3.9, 'in')]
+INFO:root:Index: 119, No valid measurements found after filtering.
+INFO:root:Index: 121, No measurements found.
+INFO:root:Index: 133, Extracted Text: 25.6in(65cm)
+, Measurements: [(25.6, 'in'), (65.0, 'cm')]
+INFO:root:Index: 133, No valid measurements found after filtering.
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 1, No valid measurements found after filtering.
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 6, No valid measurements found after filtering.
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 8, No valid measurements found after filtering.
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 40, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 40, No valid measurements found after filtering.
+INFO:root:Index: 42, Extracted Text: 4gin
+122em
+
+96 in
+244 cm
+, Measurements: [(96.0, 'inch'), (244.0, 'centimetre')]
+INFO:root:Index: 42, No valid measurements found after filtering.
+INFO:root:Index: 47, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 47, No valid measurements found after filtering.
+INFO:root:Index: 48, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 48, No valid measurements found after filtering.
+INFO:root:Index: 55, No measurements found.
+INFO:root:Index: 58, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 58, No valid measurements found after filtering.
+INFO:root:Index: 64, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 64, No valid measurements found after filtering.
+INFO:root:Index: 68, No measurements found.
+INFO:root:Index: 71, No measurements found.
+INFO:root:Index: 85, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 3, No valid measurements found after filtering.
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 4, No valid measurements found after filtering.
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 39, No valid measurements found after filtering.
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 45, No valid measurements found after filtering.
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 49, No valid measurements found after filtering.
+INFO:root:Index: 53, No measurements found.
+INFO:root:Index: 57, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 57, No valid measurements found after filtering.
+INFO:root:Index: 63, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 63, No valid measurements found after filtering.
+INFO:root:Index: 70, No measurements found.
+INFO:root:Index: 73, No measurements found.
+INFO:root:Index: 77, Extracted Text: 4.7 in/ 12cm
+
+—_—
+
+3.1 in/8cm
+, Measurements: [(4.7, 'inch'), (12.0, 'cm'), (3.1, 'inch'), (8.0, 'cm')]
+INFO:root:Index: 77, No valid measurements found after filtering.
+INFO:root:Index: 86, No measurements found.
+INFO:root:Index: 99, Extracted Text: 14.9 in / 38 cm
+
+See
+4.33 in/ 11cm
+, Measurements: [(14.9, 'inch'), (38.0, 'centimetre'), (4.33, 'inch'), (11.0, 'cm')]
+INFO:root:Index: 99, No valid measurements found after filtering.
+INFO:root:Index: 119, Extracted Text: 45cm/17.7in
+
+10cm/3.9in
+, Measurements: [(45.0, 'cm'), (17.7, 'in'), (10.0, 'cm'), (3.9, 'in')]
+INFO:root:Index: 119, No valid measurements found after filtering.
+INFO:root:Index: 121, No measurements found.
+INFO:root:Index: 133, Extracted Text: 25.6in(65cm)
+, Measurements: [(25.6, 'in'), (65.0, 'cm')]
+INFO:root:Index: 133, No valid measurements found after filtering.
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 1, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 6, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 8, Extracted Text: 40 cm 30 cm
+
+15 cm
+
+, Measurements: [(40.0, 'centimetre'), (30.0, 'centimetre'), (15.0, 'centimetre')]
+INFO:root:Index: 11, No measurements found.
+INFO:root:Index: 14, No measurements found.
+INFO:root:Index: 20, No measurements found.
+INFO:root:Index: 21, No measurements found.
+INFO:root:Index: 23, No measurements found.
+INFO:root:Index: 25, No measurements found.
+INFO:root:Index: 32, No measurements found.
+INFO:root:Index: 40, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 42, Extracted Text: 4gin
+122em
+
+96 in
+244 cm
+, Measurements: [(96.0, 'inch'), (244.0, 'centimetre')]
+INFO:root:Index: 47, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 48, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 55, No measurements found.
+INFO:root:Index: 58, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 64, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 68, No measurements found.
+INFO:root:Index: 71, No measurements found.
+INFO:root:Index: 85, No measurements found.
+INFO:root:Index: 3, Extracted Text: Size Width Length
+One Size 42cm/16.54" 200cm/78.74"
+, Measurements: [(42.0, 'cm'), (16.54, '"'), (200.0, 'cm'), (78.74, '"')]
+INFO:root:Index: 4, Extracted Text: Size Width Length
+One Size 10.50em/4.13" 90cm/35.43"
+, Measurements: [(4.13, '"'), (90.0, 'cm'), (35.43, '"')]
+INFO:root:Index: 12, No measurements found.
+INFO:root:Index: 24, No measurements found.
+INFO:root:Index: 26, No measurements found.
+INFO:root:Index: 33, No measurements found.
+INFO:root:Index: 39, Extracted Text: sain
+90cm
+
+“ain
+220m
+
+eve
+eee
+, Measurements: [(90.0, 'cm'), (220.0, 'm')]
+INFO:root:Index: 45, Extracted Text: 5.8 in,
+14cm
+
+, Measurements: [(5.8, 'inch'), (14.0, 'cm')]
+INFO:root:Index: 49, Extracted Text: 0m
+
+yom
+, Measurements: [(0.0, 'm')]
+INFO:root:Index: 53, No measurements found.
+INFO:root:Index: 57, Extracted Text: sain
+90cm
+
+ain
+120m
+
+eve
+eoe
+, Measurements: [(90.0, 'cm'), (120.0, 'm')]
+INFO:root:Index: 63, Extracted Text: 280mm:
+
+280mm:
+, Measurements: [(280.0, 'mm'), (280.0, 'mm')]
+INFO:root:Index: 70, No measurements found.
+INFO:root:Index: 73, No measurements found.
+INFO:root:Index: 77, Extracted Text: 4.7 in/ 12cm
+
+—_—
+
+3.1 in/8cm
+, Measurements: [(4.7, 'inch'), (12.0, 'cm'), (3.1, 'inch'), (8.0, 'cm')]
+INFO:root:Index: 86, No measurements found.
+INFO:root:Index: 99, Extracted Text: 14.9 in / 38 cm
+
+See
+4.33 in/ 11cm
+, Measurements: [(14.9, 'inch'), (38.0, 'centimetre'), (4.33, 'inch'), (11.0, 'cm')]
+INFO:root:Index: 119, Extracted Text: 45cm/17.7in
+
+10cm/3.9in
+, Measurements: [(45.0, 'cm'), (17.7, 'in'), (10.0, 'cm'), (3.9, 'in')]
+INFO:root:Index: 121, No measurements found.
+INFO:root:Index: 133, Extracted Text: 25.6in(65cm)
+, Measurements: [(25.6, 'in'), (65.0, 'cm')]

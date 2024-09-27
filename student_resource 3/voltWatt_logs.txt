@@ -1,0 +1,2547 @@
+INFO:root:Index: 19, Extracted Text: 208-240
+16A
+60Hz
+
+Black
+
+u
+Black
+
+Red
+
+2
+White
+
+Green
+
+GND
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: LAES.
+, Measurements: []
+INFO:root:Index: 60, Extracted Text: ich cok re Use-cteMagtales USEC Power Atte
+, Measurements: []
+INFO:root:Index: 65, Extracted Text: Li-ion 10440 1000mAh 3.70
+
+, Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm
+<_< —>
+\ RS
+Capacity: 1.4L
+Power: 1500W
+
+wuiwi9gz
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The | the | the greater the air movement
+
+LessAir 50 90 100 110 120 130 More Air
+
+CFM
+
+gabicton
+shine
+
+, Measurements: []
+INFO:root:Index: 97, Extracted Text: , Measurements: []
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: ug'6 swweee
+
+152mm 6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: OIL-FREE FRYING!
+
+With rapid air frying technology, you
+can enjoy a faster and healthier
+frying experience with litle to ne oil
+
+9 PRESET
+FUNCTIONS
+
+DISHWASHER
+SAFE BASKET
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: @povrrow
+omen ean
+
+Fe CE ROHS XO
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: = REBAR TYING MACHINE
+, ©
+
+ax
+, Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: 1599.4 1104 bine)
+
+c 155 (gu er Do
+ry 1549, 4(Aedive Are) J
+Z or 70inch display
+é
+
+Unit: nm
+, Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: , Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240
+16A
+60Hz
+
+Black
+
+u
+Black
+
+Red
+
+2
+White
+
+Green
+
+GND
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: LAES.
+, Measurements: []
+INFO:root:Index: 52, Extracted Text: 200mm /8” ——____+
+
+Serre enenrnennnnannn st PA
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: ich cok re Use-cteMagtales USEC Power Atte
+, Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm
+<_< —>
+\ RS
+Capacity: 1.4L
+Power: 1500W
+
+wuiwi9gz
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The | the | the greater the air movement
+
+LessAir 50 90 100 110 120 130 More Air
+
+CFM
+
+gabicton
+shine
+
+, Measurements: []
+INFO:root:Index: 102, Extracted Text: XLR to %” TRS Connector (wired for balanced mono) Lett
+
+Right
+
+3-pin XLR
+
+Pin | - Shield to Sleeve (Common)
+
+Pin2-Left toTip (Left)
+
+Pin 3 Right to Ring (ight)
+
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: , Measurements: []
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: ug'6 swweee
+
+152mm 6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: OIL-FREE FRYING!
+
+With rapid air frying technology, you
+can enjoy a faster and healthier
+frying experience with litle to ne oil
+
+9 PRESET
+FUNCTIONS
+
+DISHWASHER
+SAFE BASKET
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: = REBAR TYING MACHINE
+, ©
+
+ax
+, Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: , Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240
+16A
+60Hz
+
+Black
+
+u
+Black
+
+Red
+
+2
+White
+
+Green
+
+GND
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: , Measurements: []
+INFO:root:Index: 60, Extracted Text: ich cook Pe Use-cteMagsales USDC Pover Apter
+, Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm
+<_< —>
+\ RS
+Capacity: 1.4L
+Power: 1500W
+
+wuiwi9gz
+
+160mm
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The | the | the greater the air movement
+
+LessAir 50 90 100 110 120 130 More Air
+
+gahicton
+srhine
+
+, Measurements: []
+INFO:root:Index: 97, Extracted Text: , Measurements: []
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: ug'6 swweee
+
+152mm 6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: OIL-FREE FRYING!
+
+With rapid air frying technology, you
+can enjoy a faster and healthier
+frying experience with litle to no oil
+
+9 PRESET
+FUNCTIONS
+
+DISHWASHER
+SAFE BASKET
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: @povrrow
+owen ean
+
+Fe CE ROHS XO
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: REBAR TYING MACHINE
+
+, Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: For 70 inch display
+
+1 ae Unit: em
+, Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: , Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240
+16A
+60Hz
+
+Black
+
+u
+Black
+
+Red
+
+2
+White
+
+Green
+
+GND
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: , Measurements: []
+INFO:root:Index: 52, Extracted Text: ——————— 200mm /8”  ——____+
+
+Se we a
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: ich cook Pe Use-cteMagsales USDC Pover Apter
+, Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm
+<_< —>
+\ RS
+Capacity: 1.4L
+Power: 1500W
+
+wuiwi9gz
+
+160mm
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The | the | the greater the air movement
+
+LessAir 50 90 100 110 120 130 More Air
+
+gahicton
+srhine
+
+, Measurements: []
+INFO:root:Index: 102, Extracted Text: Left
+
+Right
+
+XLR to %” TRS Connector (wired for balanced mono)
+
+3-pin XLR
+
+Pin | - Shield to Sleeve (Common)
+Pin2-Left toTip (Left)
+in 3- Right. to Ring (Right)
+
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: v
+, Measurements: []
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: ug'6 swweee
+
+152mm 6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: OIL-FREE FRYING!
+
+With rapid air frying technology, you
+can enjoy a faster and healthier
+frying experience with litle to no oil
+
+9 PRESET
+FUNCTIONS
+
+DISHWASHER
+SAFE BASKET
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: REBAR TYING MACHINE
+
+, Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: , Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 97, Extracted Text: l~@——— 100mm = ———+|
+
+NIMH AA3OGOmAn 9.60
+62190805
+
+=
+
+6mm
+, Measurements: []
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: @ouatrow
+
+POmER Bax
+Gateay Tyoou-etyew 20¢00rAN
+out AWADHI
+
+Farha Prone UPL DAne' Pa
+
+Fe CE ROHS XO
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: , Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: , Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 52, Extracted Text: 200mm / 8"
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 102, Extracted Text: XLR to %” TRS Connector {wired for balanced mono} A belt
+
+3-pin XLR Lay Rent
+
+ee me
+7 CS —
+
+Pind-Leti to Tip (Ler)
+Pi 8 Right to Ring ¢Right)
+
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: SMART 8X1 650W
+OSOitce 2 Sm
+
+, Measurements: [(650.0, 'w')]
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: , Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240
+146A,
+oH,
+
+GND
+Green
+
+, Measurements: []
+INFO:root:Index: 37, Extracted Text: , Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: | Capacity: 1.4L,
+Power: 1500W.
+
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: Ee oo
+
+, Measurements: []
+INFO:root:Index: 97, Extracted Text: , Measurements: []
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: ug'e swugez
+
+‘1S2mm/6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: fou-FREE FRYING!
+
+‘With rep air tring tedrotéay, you
+an enjoy a faster and healthier,
+fring expan wih
+
+[453]
+ae
+2)
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: , Measurements: []
+INFO:root:Index: 216, Extracted Text: , Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Ott
+
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: 3|
+
+1858 fl0pening Ae
+
+er 70 Inch display,
+
+nt: em
+
+|
+‘
+
+ee
+, Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: , Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240
+146A,
+oH,
+
+GND
+Green
+
+, Measurements: []
+INFO:root:Index: 38, Extracted Text: , Measurements: []
+INFO:root:Index: 52, Extracted Text: --———_ :200mm'/'8* =
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: | Capacity: 1.4L,
+Power: 1500W.
+
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: Ee oo
+
+, Measurements: []
+INFO:root:Index: 102, Extracted Text: ALR to XLTRS Connector (wired foF balariced moins);
+
+SpInXER,
+
+ig’ 1 YShial'to Sleeve (coir
+Pin2+ Left “to Tip leh} i
+Pin 3 + Right: to Ring (Right)
+
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: , Measurements: []
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: ug'e swugez
+
+‘1S2mm/6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: fou-FREE FRYING!
+
+‘With rep air tring tedrotéay, you
+an enjoy a faster and healthier,
+fring expan wih
+
+[453]
+ae
+2)
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: , Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Ott
+
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: , Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 97, Extracted Text: l~@——— 100mm = ———+|
+
+NIMH AA3OGOmAn 9.60
+62190805
+
+=
+
+6mm
+, Measurements: []
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: @ouatrow
+
+POmER Bax
+Gateay Tyoou-etyew 20¢00rAN
+out AWADHI
+
+Farha Prone UPL DAne' Pa
+
+Fe CE ROHS XO
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: , Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: , Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 52, Extracted Text: 200mm / 8"
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 102, Extracted Text: XLR to %” TRS Connector {wired for balanced mono} A belt
+
+3-pin XLR Lay Rent
+
+ee me
+7 CS —
+
+Pind-Leti to Tip (Ler)
+Pi 8 Right to Ring ¢Right)
+
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: SMART 8X1 650W
+OSOitce 2 Sm
+
+, Measurements: [(650.0, 'w')]
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: , Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: , Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm.
+
+_ Capacity: 1.4L
+2 Power: 1500W
+
+460mm
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The tt the | the greater the air movement
+
+Less Air 50 90 100 410 120 130 MoreAir
+
+CFM
+
+gohlcFon
+ori
+
+, Measurements: []
+INFO:root:Index: 97, Extracted Text: l¢——— 100mm
+
+NIMH AA SHRIURA
+we a0HOS.
+
+=
+
+—|
+
+6mm
+, Measurements: []
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: oll
+
+"REE FRYING!
+
+©
+
+With rapid aie trying *eenalogy. you
+can enjoy a faster and healthier
+fegng expenerce with isle 10.99 ov!
+
+FD)
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: @ouatrow
+
+POmER Ba
+Garay Tyoou-etyrw 20000mAN
+put AVTAOME IWAN
+
+Farber PL DAIN' Pa
+
+Fe CE ROHS XO
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: REBAR TYING MACHINE
+
+, Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: , Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: , Measurements: []
+INFO:root:Index: 52, Extracted Text: 200mm / 8"
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm.
+
+_ Capacity: 1.4L
+2 Power: 1500W
+
+460mm
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The tt the | the greater the air movement
+
+Less Air 50 90 100 410 120 130 MoreAir
+
+CFM
+
+gohlcFon
+ori
+
+, Measurements: []
+INFO:root:Index: 102, Extracted Text: XLR to %” TRS Connector {wired for balanced mono} A tett
+
+3-pin XLR Lay Rent
+
+Din L Shieh! to Sleeve (Common)
+Pin2-Leti to Tip (Les)
+Bin ¥- Right to Ring (Right)
+
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: SMART BX1650W
+O Sic? Sm
+
+, Measurements: [(1650.0, 'w')]
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: oll
+
+"REE FRYING!
+
+©
+
+With rapid aie trying *eenalogy. you
+can enjoy a faster and healthier
+fegng expenerce with isle 10.99 ov!
+
+FD)
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: REBAR TYING MACHINE
+
+, Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 97, Extracted Text: l~@——— 100mm = ———+|
+
+NIMH AA3OGOmAn 9.60
+62190805
+
+=
+
+6mm
+, Measurements: []
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: @ouatrow
+
+POmER Bax
+Gateay Tyoou-etyew 20¢00rAN
+out AWADHI
+
+Farha Prone UPL DAne' Pa
+
+Fe CE ROHS XO
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: , Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: , Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 52, Extracted Text: 200mm / 8"
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 102, Extracted Text: XLR to %” TRS Connector {wired for balanced mono} A belt
+
+3-pin XLR Lay Rent
+
+ee me
+7 CS —
+
+Pind-Leti to Tip (Ler)
+Pi 8 Right to Ring ¢Right)
+
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: SMART 8X1 650W
+OSOitce 2 Sm
+
+, Measurements: [(650.0, 'w')]
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: , Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240V
+16A
+BOHz
+
+Black
+
+L1
+Black
+
+Red
+
+La
+White
+
+, Measurements: [(240.0, 'v')]
+INFO:root:Index: 37, Extracted Text: , Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 239mm
+
+Fe
+_ Capacity: 1.4L
+= Power: 1500W
+
+160mm
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The ‘ the CFM, the greater the air movement
+
+LessAir 50 90 100 «110 «©1200 «1300 More Air
+
+CFM
+
+Cuble Feet
+Per Minute
+
+, Measurements: []
+INFO:root:Index: 97, Extracted Text: | _¢——_— 100mm —
+
+NIMH AAZ0Q0mAN 9.6v
+GZ 190805.
+
+—
+
+56mm
+, Measurements: [(9.6, 'v')]
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: 152mm / 6.0in
+
+233mm /9 Zin
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: OIL-FREE FRYING!
+
+With rapid air frying Tecnology. you
+Gen erjoy a faster and healthier
+fry ng expenerce with little to no ol!
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: GQ0uALPow
+
+POWER BANK
+
+Gerrery Typetiootymer 00D AN,
+Lput AVIRA OADM SV2K
+
+For Motte Phone MPU PRONE Pad
+
+fe C€ RoHS XO
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: , Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: PFaezS1 61 22%
+peu
+graw a
+rece
+
+, Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: Adit: eeven
+, Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: 180
+
+o M
+BLACK# DECKER,
+
+, Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240V
+16A
+BOHz
+
+Black
+
+L1
+Black
+
+Red
+
+La
+White
+
+, Measurements: [(240.0, 'v')]
+INFO:root:Index: 38, Extracted Text: , Measurements: []
+INFO:root:Index: 52, Extracted Text: , Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: 239mm
+
+Fe
+_ Capacity: 1.4L
+= Power: 1500W
+
+160mm
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The ‘ the CFM, the greater the air movement
+
+LessAir 50 90 100 «110 «©1200 «1300 More Air
+
+CFM
+
+Cuble Feet
+Per Minute
+
+, Measurements: []
+INFO:root:Index: 102, Extracted Text: XLR to %” TRS Connector (wired for balanced mono} ry belt
+
+3-pin XLR La Right
+
+—
+aa
+
+Pin 1 Shuckt to Sleeve (Common) f
+Pin2d-Levt to Tip (Lett)
+Pin 3- Right to Ring (Right)
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: SMES PCE Lg
+
+SMART BX1 650W
+© Sil ce = Seo
+
+, Measurements: [(650.0, 'w')]
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: 152mm / 6.0in
+
+233mm /9 Zin
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: OIL-FREE FRYING!
+
+With rapid air frying Tecnology. you
+Gen erjoy a faster and healthier
+fry ng expenerce with little to no ol!
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: , Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: PFaezS1 61 22%
+peu
+graw a
+rece
+
+, Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: 180
+
+o M
+BLACK# DECKER,
+
+, Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 97, Extracted Text: l~@——— 100mm = ———+|
+
+NIMH AA3OGOmAn 9.60
+62190805
+
+=
+
+6mm
+, Measurements: []
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: @ouatrow
+
+POmER Bax
+Gateay Tyoou-etyew 20¢00rAN
+out AWADHI
+
+Farha Prone UPL DAne' Pa
+
+Fe CE ROHS XO
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: , Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: , Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 52, Extracted Text: 200mm / 8"
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 102, Extracted Text: XLR to %” TRS Connector {wired for balanced mono} A belt
+
+3-pin XLR Lay Rent
+
+ee me
+7 CS —
+
+Pind-Leti to Tip (Ler)
+Pi 8 Right to Ring ¢Right)
+
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: SMART 8X1 650W
+OSOitce 2 Sm
+
+, Measurements: [(650.0, 'w')]
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: , Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240V
+16A
+BOHZ
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(240.0, 'v'), (2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: , Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm
+
+—
+
+160mm
+
+iy
+8
+3
+3
+
+Capacity: 1.4L
+Power: 1500W
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The Higher the CFM, the greater the air movement
+
+LI lt |
+
+58 MU 160, 1280 Mure ar
+
+|: CFM
+
+, Measurements: []
+INFO:root:Index: 97, Extracted Text: NIMH AA3090mAn 9.60
+Gz 190805
+
+1
+
+wee
+
+14mm
+*
+, Measurements: [(1.0, 'w')]
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: 1s2mm?6.5in
+
+288ram7 9 Be
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: OIL-FREE FRYING!
+
+With raple ar tryirg tocrnotogy. you
+can enjoy a faster and hentthier
+feyng exponerce with fia 10.0 ot
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: Gpourre
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: , Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: ta ea chotalay
+
+, Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: , Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240V
+16A
+BOHZ
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(240.0, 'v'), (2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: , Measurements: []
+INFO:root:Index: 52, Extracted Text: F - 200mm / 8” .
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm
+
+—
+
+160mm
+
+iy
+8
+3
+3
+
+Capacity: 1.4L
+Power: 1500W
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The Higher the CFM, the greater the air movement
+
+LI lt |
+
+58 MU 160, 1280 Mure ar
+
+|: CFM
+
+, Measurements: []
+INFO:root:Index: 102, Extracted Text: XLR to X” TRS Connector {wired for balanced mono}
+
+Spin XL
+
+Inn Suet bee (Common
+Mm2-1eA wTiptlett)
+fon 3 Right to Ring ARLE)
+
+commen
+
+Left
+Right
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: , Measurements: []
+INFO:root:Index: 115, Extracted Text: P2H-5500V
+
+, Measurements: [(5500.0, 'v')]
+INFO:root:Index: 166, Extracted Text: 1s2mm?6.5in
+
+288ram7 9 Be
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: OIL-FREE FRYING!
+
+With raple ar tryirg tocrnotogy. you
+can enjoy a faster and hentthier
+feyng exponerce with fia 10.0 ot
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: , Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: , Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240V
+16A
+BOHZ
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(240.0, 'v'), (2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: , Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm
+
+—
+
+160mm
+
+iy
+8
+3
+3
+
+Capacity: 1.4L
+Power: 1500W
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The Higher the CFM, the greater the air movement
+
+LI lt |
+
+58 MU 160, 1280 Mure ar
+
+|: CFM
+
+, Measurements: []
+INFO:root:Index: 97, Extracted Text: NIMH AA3090mAn 9.60
+Gz 190805
+
+1
+
+wee
+
+14mm
+*
+, Measurements: [(1.0, 'w')]
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: 1s2mm?6.5in
+
+288ram7 9 Be
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: OIL-FREE FRYING!
+
+With raple ar tryirg tocrnotogy. you
+can enjoy a faster and hentthier
+feyng exponerce with fia 10.0 ot
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: Gpourre
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: , Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: ta ea chotalay
+
+, Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: , Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240V
+16A
+BOHZ
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(240.0, 'v'), (2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: , Measurements: []
+INFO:root:Index: 52, Extracted Text: F - 200mm / 8” .
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm
+
+—
+
+160mm
+
+iy
+8
+3
+3
+
+Capacity: 1.4L
+Power: 1500W
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The Higher the CFM, the greater the air movement
+
+LI lt |
+
+58 MU 160, 1280 Mure ar
+
+|: CFM
+
+, Measurements: []
+INFO:root:Index: 102, Extracted Text: XLR to X” TRS Connector {wired for balanced mono}
+
+Spin XL
+
+Inn Suet bee (Common
+Mm2-1eA wTiptlett)
+fon 3 Right to Ring ARLE)
+
+commen
+
+Left
+Right
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: , Measurements: []
+INFO:root:Index: 115, Extracted Text: P2H-5500V
+
+, Measurements: [(5500.0, 'v')]
+INFO:root:Index: 166, Extracted Text: 1s2mm?6.5in
+
+288ram7 9 Be
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: OIL-FREE FRYING!
+
+With raple ar tryirg tocrnotogy. you
+can enjoy a faster and hentthier
+feyng exponerce with fia 10.0 ot
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: , Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: , Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 97, Extracted Text: l~@——— 100mm = ———+|
+
+NIMH AA3OGOmAn 9.60
+62190805
+
+=
+
+6mm
+, Measurements: []
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: @ouatrow
+
+POmER Bax
+Gateay Tyoou-etyew 20¢00rAN
+out AWADHI
+
+Farha Prone UPL DAne' Pa
+
+Fe CE ROHS XO
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: , Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: , Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 52, Extracted Text: 200mm / 8"
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 102, Extracted Text: XLR to %” TRS Connector {wired for balanced mono} A belt
+
+3-pin XLR Lay Rent
+
+ee me
+7 CS —
+
+Pind-Leti to Tip (Ler)
+Pi 8 Right to Ring ¢Right)
+
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: SMART 8X1 650W
+OSOitce 2 Sm
+
+, Measurements: [(650.0, 'w')]
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: , Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
+INFO:root:Index: 19, Extracted Text: Black Red Green
+208-240 ° ° 1
+16A =
+6OHZ u L2 GNO
+Black White Green
+, Measurements: []
+INFO:root:Index: 37, Extracted Text: Fd aw Ys a [a= --]
+f oS
+lacs FS Gases
+, Measurements: []
+INFO:root:Index: 60, Extracted Text: ny
+@
+|
+, Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm
+oF Le
+FH
+_ Capacity: 1.4L
+= Power: 1500W
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The Higher the CFM, the greater the air movement
+CFM
+LessAir 50) 60 80 «990 «6100 410 «120-130 More Air
+, Measurements: []
+INFO:root:Index: 97, Extracted Text: —_ 100mm = ———+
+NIMH AAZ000NAR 8.69 ser
+67190805
+7
+ee 14mm
+_ +.
+, Measurements: []
+INFO:root:Index: 126, Extracted Text: ©
+, Measurements: []
+INFO:root:Index: 165, Extracted Text: ,
+@
+&
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: ?
+
+¢
+n : c A
+- 1ag
+we uw ‘
+yo  *
+, Measurements: []
+INFO:root:Index: 206, Extracted Text: OIL-FREE FRYING! (8)
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: @ouatrow
+
+Pont nant
+
+SERRE cage ntman
+Fe CE RoHS XO
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: om
+_—! a
+a7 = REBAR TYING MACHINE
+\
+“ ~
+rf
+, Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: Car ane
+, Measurements: []
+INFO:root:Index: 287, Extracted Text: “nv
+aie aie
+, Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: , Measurements: []
+INFO:root:Index: 301, Extracted Text: W
+, Measurements: []
+INFO:root:Index: 323, Extracted Text: -
+© igo,
+[
+.
+, Measurements: []
+INFO:root:Index: 18, Extracted Text: Black Red Green
+208-240 ° ° 1
+16A =
+6OHZ u L2 GNO
+Black White Green
+, Measurements: []
+INFO:root:Index: 38, Extracted Text: Fd aw Ys a [a= --]
+f oS
+lacs FS Gases
+, Measurements: []
+INFO:root:Index: 52, Extracted Text: F 200mm / 8" .
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: ny
+@
+|
+, Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm
+oF Le
+FH
+_ Capacity: 1.4L
+= Power: 1500W
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The Higher the CFM, the greater the air movement
+CFM
+LessAir 50) 60 80 «990 «6100 410 «120-130 More Air
+, Measurements: []
+INFO:root:Index: 102, Extracted Text: XLR to %” TRS Connector {wired for balanced mono} A, left
+: 4 ee
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: |
+SMART BX1 650W
+, Measurements: [(650.0, 'w')]
+INFO:root:Index: 115, Extracted Text: Sr 0105"
+P2HS500V ee.
+PRT 3 30 Leg
+ian 4
+, Measurements: [(500.0, 'v')]
+INFO:root:Index: 166, Extracted Text: ,
+@
+&
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: ?
+
+¢
+n : c A
+- 1ag
+we uw ‘
+yo  *
+, Measurements: []
+INFO:root:Index: 205, Extracted Text: OIL-FREE FRYING! (8)
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: om
+_—! a
+a7 = REBAR TYING MACHINE
+\
+“ ~
+rf
+, Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: Car ane
+, Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: W
+, Measurements: []
+INFO:root:Index: 324, Extracted Text: -
+© igo,
+[
+.
+, Measurements: []
+INFO:root:Index: 335, Extracted Text: EI “* ED) 1200 )
+i
+, Measurements: []
+INFO:root:Index: 339, Extracted Text: i:
+ec
+, Measurements: []
+INFO:root:Index: 19, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 37, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 60, Extracted Text: , Measurements: []
+INFO:root:Index: 65, Extracted Text: , Measurements: []
+INFO:root:Index: 75, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 88, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 97, Extracted Text: l~@——— 100mm = ———+|
+
+NIMH AA3OGOmAn 9.60
+62190805
+
+=
+
+6mm
+, Measurements: []
+INFO:root:Index: 126, Extracted Text: , Measurements: []
+INFO:root:Index: 165, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 184, Extracted Text: , Measurements: []
+INFO:root:Index: 206, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 213, Extracted Text: @ouatrow
+
+POmER Bax
+Gateay Tyoou-etyew 20¢00rAN
+out AWADHI
+
+Farha Prone UPL DAne' Pa
+
+Fe CE ROHS XO
+
+, Measurements: []
+INFO:root:Index: 216, Extracted Text: , Measurements: []
+INFO:root:Index: 230, Extracted Text: , Measurements: []
+INFO:root:Index: 278, Extracted Text: , Measurements: []
+INFO:root:Index: 287, Extracted Text: , Measurements: []
+INFO:root:Index: 299, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 300, Extracted Text: , Measurements: []
+INFO:root:Index: 301, Extracted Text: , Measurements: []
+INFO:root:Index: 323, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 18, Extracted Text: 208-240
+16A
+6OHz
+
+Black
+
+u
+Black
+
+Red
+
+L2
+White
+
+Green
+
+GNO
+Green
+
+, Measurements: [(2.0, 'w')]
+INFO:root:Index: 38, Extracted Text: {
+
+Lacs Fee
+ae
+, Measurements: []
+INFO:root:Index: 52, Extracted Text: 200mm / 8"
+
+, Measurements: []
+INFO:root:Index: 59, Extracted Text: , Measurements: []
+INFO:root:Index: 74, Extracted Text: 230mm.
+
+=
+
+Capacity: 1.4L
+2 Power: 1500W
+
+160mm,
+, Measurements: [(1500.0, 'w')]
+INFO:root:Index: 87, Extracted Text: The ot the CFM, the greater the air movement
+
+LessAir 50 90 V0 120 130 More Air
+
+CFM
+
+gohlcron
+Sortie
+
+, Measurements: [(90.0, 'v')]
+INFO:root:Index: 102, Extracted Text: XLR to %” TRS Connector {wired for balanced mono} A belt
+
+3-pin XLR Lay Rent
+
+ee me
+7 CS —
+
+Pind-Leti to Tip (Ler)
+Pi 8 Right to Ring ¢Right)
+
+, Measurements: []
+INFO:root:Index: 112, Extracted Text: SMART 8X1 650W
+OSOitce 2 Sm
+
+, Measurements: [(650.0, 'w')]
+INFO:root:Index: 115, Extracted Text: , Measurements: []
+INFO:root:Index: 166, Extracted Text: vee rumesz
+
+4182mm/ 6.0in
+, Measurements: []
+INFO:root:Index: 183, Extracted Text: , Measurements: []
+INFO:root:Index: 205, Extracted Text: REE FRYING! (8)
+
+With rapist aie frig *ecnotegy. you
+can enjoy a faster and healthier
+feyng expanecce with iia 10 neo
+
+, Measurements: []
+INFO:root:Index: 217, Extracted Text: , Measurements: []
+INFO:root:Index: 229, Extracted Text: , Measurements: []
+INFO:root:Index: 277, Extracted Text: , Measurements: []
+INFO:root:Index: 298, Extracted Text: Fits most
+6 in.
+reciprocating
+blades
+, Measurements: []
+INFO:root:Index: 302, Extracted Text: , Measurements: []
+INFO:root:Index: 324, Extracted Text: *
+
+igo
+
+oO Moy
+
+BLACK DECKER
+
+, Measurements: []
+INFO:root:Index: 335, Extracted Text: , Measurements: []
+INFO:root:Index: 339, Extracted Text: , Measurements: []
